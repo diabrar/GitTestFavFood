@@ -2,4 +2,8 @@ Ronald Kroening- Sushi
 Willy Chan - Tacos
 Uly Yarber – Phish Food Ice Cream
 Ronald II - Cheeseburgers
+<<<<<<< HEAD
 Alison Ding - ramen 
+=======
+Roman Sejnoha - Sushi, specifically nigiri
+>>>>>>> 05d10ba08c6da146f1fd63f2d021b59accfc3367
